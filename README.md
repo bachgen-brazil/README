@@ -39,7 +39,4 @@ Feel free to browse my Github profile and check out my latest projects. If you h
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bachgen-brazil&show_icons=true&locale=en&layout=compact" alt="bachgen-brazil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bachgen-brazil&show_icons=true&locale=en" alt="bachgen-brazil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bachgen-brazil&" alt="bachgen-brazil" /></p>
 
