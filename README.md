@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Pessoa</h1>
-<h3 align="center">I´m a studying to became Full-Stack Dev. Already have a bachelor degree in Nautical Sciences, Brazil Merchant Navy.</h3>
+<h3 align="center">Hi there! I'm a Full-Stack Developer in training, and I'm excited to be pursuing this career path. I recently obtained a degree in Nautical Science, and have been working as a 3rd Engineer Officer on various vessels for the past few years.
+
+Throughout my career, I've developed a strong passion for technology and programming, which led me to embark on this new journey as a Full-Stack Developer. I'm currently honing my skills in web development, working on projects that involve building interactive and dynamic websites using various technologies such as HTML, CSS, JavaScript, React, and Node.js.
+
+I'm constantly seeking new challenges and opportunities to learn and grow as a developer, and I'm excited about the possibilities that lie ahead. In my free time, I enjoy exploring new programming languages and technologies, as well as traveling and experiencing different cultures.
+
+Feel free to browse my Github profile and check out my latest projects. If you have any questions or suggestions, don't hesitate to reach out!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bachgen-brazil&label=Profile%20views&color=0e75b6&style=flat" alt="bachgen-brazil" /> </p>
 
