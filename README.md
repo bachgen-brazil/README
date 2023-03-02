@@ -34,7 +34,7 @@ Feel free to browse my Github profile and check out my latest projects. If you h
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/fps07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fps07" /></a></p>
+<p><a href="https://www.buymeacoffee.com/fps07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fps07" /></a></p>
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=bachgen-brazil&show_icons=true&locale=en&layout=compact" alt="bachgen-brazil" /></p>
 
 
