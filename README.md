@@ -27,6 +27,7 @@ Feel free to browse my Github profile and check out my latest projects. If you h
 <p align="left">
 <a href="https://twitter.com/bachgen_eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bachgen_eth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/felipepessoadesousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipepessoadesousa" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://static.wixstatic.com/media/322cff_c3cd08ea165f4e41bdb604d646554fc5~mv2.png/v1/fit/w_500,h_500,q_90/file.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
